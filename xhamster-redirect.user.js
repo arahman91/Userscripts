@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         Xhamster Redirect
 // @namespace    9bf36c681d35d52913b3bda74ddf6127318ed7b0
-// @version      0.1
+// @version      0.2
 // @description  Redirect to xhamster gallery
 // @author       arahman91
 // @match        https://xhamster3.com/*
 // @match        https://*.xhamster3.com/*
 // @match        https://xhamster.sitescrack.host/*
 // @match        https://*.xhamster.desi/*
+// @match	 https://pj222.top/*
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
