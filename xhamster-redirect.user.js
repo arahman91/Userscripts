@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Xhamster Redirect
 // @namespace    9bf36c681d35d52913b3bda74ddf6127318ed7b0
-// @version      0.4
+// @version      0.41
 // @description  Redirect to xhamster gallery
 // @author       arahman91
-/ @match        https://xhamster.xvideos.zone
+// @match        https://xhamster.xvideos.zone/*
 // @match        https://*.xhamster.la/*
 // @match        https://xhamster3.com/*
 // @match        https://*.xhamster3.com/*
